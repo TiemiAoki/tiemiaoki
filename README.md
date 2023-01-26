@@ -19,3 +19,4 @@
 <div>
  <img  align=right src="https://images-ext-1.discordapp.net/external/mkDT6bkmAFqO1fkMKbfwQsV1M74pC7fF3vL9iKGTJtE/https/i.picasion.com/pic92/54d13cd3f90de482107151d64db3be05.gif"> 
 </div>
+<img src="http://piquedigital.com.br/cobrinha.svg">
